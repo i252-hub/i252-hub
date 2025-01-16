@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+Hi, I'm Kirsten <br/>
+  <img src="https://s5.ezgif.com/tmp/ezgif-5-972373f118.gif" alt="wings">
+</p>
+
 
 <!--
 **i252-hub/i252-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
