@@ -35,6 +35,8 @@ ________________________________________________________________________________
 
 </div>
 
+<div align="center">
+
 ## Languages and Tools
 <img width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img  width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img  width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -52,7 +54,7 @@ ________________________________________________________________________________
           
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i252-hub&theme=default&show_icons=true&hide_border=true&layout=compact) 
 
-          
+ </div>
           
 
           
