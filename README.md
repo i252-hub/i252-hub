@@ -7,11 +7,7 @@ Hi, I'm Kirsten <br/><br/>
 
 <div align="center">
 
-```jsx
-
-< .𝗓 .𐰁 .ᐟ ⋅ ₊˖° + Welcome to my coding life ₊ ⊹ . ݁˖ .ᶻ ‧˚ </>
-
-```
+`< .𝗓 .𐰁 .ᐟ ⋅ ₊˖° + Welcome to my coding life ₊ ⊹ . ݁˖ .ᶻ ‧˚ </>`
 </div>
 
 
