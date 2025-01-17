@@ -1,7 +1,15 @@
+<h4 align="center">
+Hi, I'm Kirsten <br/><br/>
+ 
+![wings](https://github.com/i252-hub/i252-hub/blob/main/wingss.gif)
+
+</h4>
+
+
 <p align="center">
-Hi, I'm Kirsten <br/>
-  <img src="https://s5.ezgif.com/tmp/ezgif-5-972373f118.gif" alt="wings">
-</p>
+ .𝗓 .𐰁 .ᐟ ⋅ ₊˖° + Welcome to my coding life ₊ ⊹ . ݁˖ .ᶻ ‧˚
+     
+</p> 
 
 
 <!--
