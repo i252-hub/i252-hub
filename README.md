@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 <table>
   <tr>
-    <td><a href="https://github.com/i252-hub/love-jesus-A-Journaling-and-Community-Web-App"><span style="font-size: 1px;">Christian Journal/Community</span></a> - journaling and blogging </td>
+    <td><a href="https://github.com/i252-hub/love-jesus-A-Journaling-and-Community-Web-App"><span style="font-size: 1px;">Love,Jesus</span></a> - christian jurnaling & community </td>
     <td><a href="https://github.com/i252-hub/Shopping-Cart"><span style="font-size: 12px;">BASIQ</span></a> - ecommerce webapp</td>
   </tr>
   <tr>
