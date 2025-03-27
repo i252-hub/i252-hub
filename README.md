@@ -22,7 +22,7 @@ ________________________________________________________________________________
     <td><a href="https://github.com/i252-hub/Shopping-Cart"><span style="font-size: 12px;">BASIQ</span></a> - ecommerce webapp</td>
   </tr>
   <tr>
-       <td><a href="https://github.com/i252-hub/CV-Application"><span style="font-size: 12px;">CV Generator</span></a> - generates cv</td>
+       <td><a href="https://github.com/i252-hub/CV-Application"><span style="font-size: 12px;">Resume Builder</span></a> - generates resume</td>
        <td><a href="https://github.com/i252-hub/todo"><span style="font-size: 12px;">Todo</span></a> - todo lists</td>
   </tr>
    <tr>
