@@ -26,7 +26,7 @@ ________________________________________________________________________________
        <td><a href="https://github.com/i252-hub/todo"><span style="font-size: 12px;">Todo</span></a> - todo lists</td>
   </tr>
    <tr>
-    <td><a href="https://github.com/i252-hub/CV-Application"><span style="font-size: 12px;">Weather App</span></a> - displays weather data</td>
+    <td><a href="https://github.com/i252-hub/weather-app"><span style="font-size: 12px;">Weather App</span></a> - displays weather data</td>
      <td><a href="https://github.com/i252-hub/Meliora/tree/main"><span style="font-size: 12px;">Meliora</span></a> - mental wellness</td>
   </tr>
 </table>
