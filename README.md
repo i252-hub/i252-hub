@@ -14,20 +14,20 @@ ________________________________________________________________________________
  </div>
 
 <div align="center">
-<h3>Project List</h3>
+<h3>Projects</h3>
 
 <table>
   <tr>
-    <td><a href="https://github.com/i252-hub/love-jesus-A-Journaling-and-Community-Web-App"><span style="font-size: 1px;">Love,Jesus</span></a> - christian journaling & community </td>
-    <td><a href="https://github.com/i252-hub/Shopping-Cart"><span style="font-size: 12px;">BASIQ</span></a> - ecommerce webapp</td>
+    <td><a href="https://github.com/i252-hub/myPortfolio"><span style="font-size: 1px;">Portfolio</span></a> - my portfolio </td>
+    <td><a href="https://github.com/i252-hub/love-jesus-A-Journaling-and-Community-Web-App"><span style="font-size: 12px;">Love,Jesus</span></a> - christian journaling & community</td>
   </tr>
   <tr>
-       <td><a href="https://github.com/i252-hub/CV-Application"><span style="font-size: 12px;">Resume Builder</span></a> - generates resume</td>
-       <td><a href="https://github.com/i252-hub/todo"><span style="font-size: 12px;">Todo</span></a> - todo lists</td>
+       <td><a href="https://github.com/i252-hub/Shopping-Cart"><span style="font-size: 12px;">BASIQ</span></a> - ecommerce webapp</td>
+       <td><a href="https://github.com/i252-hub/webbuilder"><span style="font-size: 12px;">Replica</span></a> - revision of existing website</td>
   </tr>
    <tr>
-    <td><a href="https://github.com/i252-hub/weather-app"><span style="font-size: 12px;">Weather App</span></a> - displays weather data</td>
-     <td><a href="https://github.com/i252-hub/Meliora/tree/main"><span style="font-size: 12px;">Meliora</span></a> - mental wellness</td>
+    <td><a href="https://github.com/i252-hub/CV-Application"><span style="font-size: 12px;">Resume Builder</span></a> - generates resume</td>
+     <td><a href="https://github.com/i252-hub/todo"><span style="font-size: 12px;">Todo</span></a> - todo lists</td>
   </tr>
 </table>
 
